@@ -113,4 +113,6 @@ We believe that:
 - reliability comes from **engineering, not promises**,
 - validators should contribute more than just uptime.
 
-Validexis exists to build infrastructure that networks can rely on — quietly, consistently, and long-term.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/validexisinfra/logo/main/validexis-banner2.png" alt="Validexis banner" />
+</p>
