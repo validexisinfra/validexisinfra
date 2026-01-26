@@ -97,7 +97,7 @@ Multi-layer architecture designed to protect validator integrity, prevent double
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/validexisinfra/logo/main/security.png"
-    width="720"
+    width="680"
   />
 </p>
 
