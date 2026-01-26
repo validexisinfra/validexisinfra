@@ -88,6 +88,21 @@ This setup provides a strong balance of enterprise-grade reliability, physical s
 
 ---
 
+## Security
+
+Security is our top priority — both on the infrastructure and access level. 
+
+Multi-layer architecture designed to protect validator integrity, prevent double-signing, and ensure operational safety across all systems.
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/validexisinfra/logo/main/security.png"
+    width="720"
+  />
+</p>
+
+---
+
 ## Tooling & Development
 
 We actively develop **production tooling** built on live network data and validator telemetry.
