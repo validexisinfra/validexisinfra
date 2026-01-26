@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Validation-Active-0B1C2D?style=flat-square&logo=checkmarx&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/Infrastructure-Production-0B1C2D?style=flat-square&logo=serverless&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/Open_Source-Yes-0B1C2D?style=flat-square&logo=github&logoColor=E6B873"/>
+  <img src="https://img.shields.io/badge/Validation-Active-1C3A5F?style=for-the-badge&logo=checkmarx&logoColor=E6B873"/>
+  <img src="https://img.shields.io/badge/Infrastructure-Production-1C3A5F?style=for-the-badge&logo=serverless&logoColor=E6B873"/>
+  <img src="https://img.shields.io/badge/Open_Source-Yes-1C3A5F?style=for-the-badge&logo=github&logoColor=E6B873"/>
 </p>
 
 ---
@@ -20,17 +20,46 @@
 **Validexis** is an infrastructure-focused validator and engineering team operating at the intersection of  
 **blockchain validation, on-chain analytics, and production-grade tooling**.
 
-We don’t treat infrastructure as a side component —  
-it is the core product.
+Infrastructure is not a side component for us —  
+it is the core product and long-term responsibility.
 
-Our work spans:
-- validator operations across multiple ecosystems,
+We operate validators across multiple ecosystems and build tooling based on real mainnet data, including:
+- validator operations and RPC infrastructure,
 - custom explorers and analytics platforms,
 - monitoring, automation, and AI-assisted operator tooling,
-- applied research based on real mainnet data.
+- applied research driven by production environments.
 
-Infrastructure is not a feature.  
-It is a long-term operational commitment.
+### Team & Operations
+
+Validexis is a decentralized team of infrastructure engineers and validators with deep operational expertise.
+
+Our team includes:
+- **DevOps engineers** — deploy and maintain nodes across multiple blockchain networks
+- **Infrastructure managers** — operate bare-metal servers and non-standard data centers
+- **Blockchain developers** — build automation, tooling, and network services
+- **Technical writers** — produce technical documentation and ecosystem tooling
+
+We are distributed across multiple regions, including:
+**Germany —  South Africa —  UAE —  Thailand —  Kazakhstan**
+
+Our geographic diversity ensures high availability, resilience, and rapid incident response across time zones.
+
+---
+
+## Track Record & Recognition
+
+Validexis is recognized across multiple ecosystems for reliability, transparency, and open-source contribution.
+
+- **Celestia Foundation — Delegation Program**  
+  Awarded for AI-driven analytics and observability tooling
+
+- **StarkWare / Starknet — Delegation Program**  
+  Recognition for sustained uptime and secure validator operations
+
+- **Web3 Foundation (Polkadot & Kusama DN)**  
+  Delegation for validator reliability and ecosystem support
+
+We operate active validators across **10+ ecosystems**, including Celestia, Polkadot, Kusama, Starknet, Cosmos, Solana, and others.
 
 ---
 
@@ -39,12 +68,23 @@ It is a long-term operational commitment.
 Production-grade systems designed for stability, observability, and long-term network participation.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-Debian-1C2A3A?style=flat-square&logo=linux&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/Containers-Docker-1C2A3A?style=flat-square&logo=docker&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/Monitoring-Prometheus/Grafana-1C2A3A?style=flat-square&logo=prometheus&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/Alerts-Real_Time-1C2A3A?style=flat-square&logo=opsgenie&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/Security-Hardened-1C2A3A?style=flat-square&logo=letsencrypt&logoColor=E6B873"/>
+  <img src="https://img.shields.io/badge/Linux-Debian-1C3A5F?style=for-the-badge&logo=linux&logoColor=E6B873"/>
+  <img src="https://img.shields.io/badge/Containers-Docker-1C3A5F?style=for-the-badge&logo=docker&logoColor=E6B873"/>
+  <img src="https://img.shields.io/badge/Monitoring-Prometheus/Grafana-1C3A5F?style=for-the-badge&logo=prometheus&logoColor=E6B873"/>
+  <img src="https://img.shields.io/badge/Alerts-Real_Time-1C3A5F?style=for-the-badge&logo=opsgenie&logoColor=E6B873"/>
+  <img src="https://img.shields.io/badge/Security-Hardened-1C3A5F?style=for-the-badge&logo=letsencrypt&logoColor=E6B873"/>
 </p>
+
+### Bare-Metal Infrastructure
+
+VALIDEXIS operates a fully self-managed **bare-metal infrastructure** hosted in **Tier-3 carrier-neutral data centers** in **Dubai, United Arab Emirates**.
+
+This setup provides a strong balance of enterprise-grade reliability, physical security, and global connectivity — while contributing to geographic decentralization across the Middle East region.
+
+**Key characteristics:**
+- Enterprise-grade physical security and redundancy
+- Low-latency regional and intercontinental routing
+- Strategic validator decentralization in the Middle East
 
 ---
 
@@ -59,9 +99,9 @@ This includes:
 - automation pipelines for infrastructure reliability.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Explorers-Active-2A1B3D?style=flat-square&logo=graphql&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/AI_Tooling-Deployed-2A1B3D?style=flat-square&logo=openai&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/Automation-Operators-2A1B3D?style=flat-square&logo=robotframework&logoColor=E6B873"/>
+  <img src="https://img.shields.io/badge/Explorers-Active-1C3A5F?style=for-the-badge&logo=graphql&logoColor=E6B873"/>
+  <img src="https://img.shields.io/badge/AI_Tooling-Deployed-1C3A5F?style=for-the-badge&logo=openai&logoColor=E6B873"/>
+  <img src="https://img.shields.io/badge/Automation-Operators-1C3A5F?style=for-the-badge&logo=robotframework&logoColor=E6B873"/>
 </p>
 
 ---
@@ -99,9 +139,9 @@ This includes:
 ## Performance & Reliability
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Uptime-High-0F2A44?style=flat-square&logo=verizon&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/Monitoring-24/7-0F2A44?style=flat-square&logo=clockify&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/Security-Hardened-0F2A44?style=flat-square&logo=datadog&logoColor=E6B873"/>
+  <img src="https://img.shields.io/badge/Uptime-99.9%25-1C3A5F?style=for-the-badge&logo=verizon&logoColor=E6B873"/>
+  <img src="https://img.shields.io/badge/Monitoring-24%2F7-1C3A5F?style=for-the-badge&logo=clockify&logoColor=E6B873"/>
+  <img src="https://img.shields.io/badge/Security-Hardened-1C3A5F?style=for-the-badge&logo=datadog&logoColor=E6B873"/>
 </p>
 
 ---
