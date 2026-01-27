@@ -29,9 +29,6 @@ We operate validators across multiple ecosystems and build tooling based on real
 - monitoring, automation, and AI-assisted operator tooling,
 - applied research driven by production environments.
 
-### Team & Operations
-
-Validexis is a decentralized team of infrastructure engineers and validators with deep operational expertise.
 
 Our team includes:
 - **DevOps engineers** — deploy and maintain nodes across multiple blockchain networks
