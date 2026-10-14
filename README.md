@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://validexis.com/"><img src="https://validexis.com/corporate-assets/v3/art/v8-og-wordmark.png" alt="VΛLIDEXIS — validator infrastructure and on-chain intelligence" width="100%"></a>
+  <a href="https://validexis.com/"><img src="./v8-og-wordmark.png" alt="VΛLIDEXIS — validator infrastructure and on-chain intelligence" width="100%"></a>
 </p>
 
 <p align="center"><strong>POWERING DECENTRALIZED FINANCE</strong></p>
