@@ -1,170 +1,49 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/validexisinfra/logo/main/validexis-banner1.png" alt="Validexis banner" />
+  <a href="https://validexis.com/"><img src="https://validexis.com/corporate-assets/v3/art/v8-og-wordmark.png" alt="VΛLIDEXIS — validator infrastructure and on-chain intelligence" width="100%"></a>
 </p>
+
+<p align="center"><strong>POWERING DECENTRALIZED FINANCE</strong></p>
 
 <p align="center">
-  <b>High uptime · Infrastructure-first · Engineering-driven</b><br/>
-  The axis of trust for decentralized validation
+  <a href="https://validexis.com/">Corporate site</a> ·
+  <a href="https://services.validexis.com/">Infrastructure docs</a> ·
+  <a href="https://validexis.com/networks/">Networks</a> ·
+  <a href="https://validexis.com/products/">Products</a> ·
+  <a href="https://validexis.com/contact/">Contact</a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Validation-Active-1C3A5F?style=for-the-badge&logo=checkmarx&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/Infrastructure-Production-1C3A5F?style=for-the-badge&logo=serverless&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/Open_Source-Yes-1C3A5F?style=for-the-badge&logo=github&logoColor=E6B873"/>
-</p>
+## VALIDEXIS
 
----
+We are an independent validator and engineering team operating since 2021. We work across validator infrastructure, monitoring, on-chain intelligence and tools that make network data easier to explore.
 
-## About Validexis
+Our work includes validator operations, network guides and RPC resources, explorers, bridge observability and operator tooling. We document current roles separately from historical participation so that a network listing does not imply current active-set status.
 
-**Validexis** is an infrastructure-focused validator and engineering team operating at the intersection of  
-**blockchain validation, on-chain analytics, and production-grade tooling**.
+## Network portfolio
 
-Infrastructure is not a side component for us —  
-it is the core product and long-term responsibility.
+| Validator operations and tools | Documented validator or node history | Guides and resource archives |
+| --- | --- | --- |
+| [Celestia](https://validexis.com/networks/celestia/), [Monad](https://validexis.com/networks/monad/) | [Polkadot](https://validexis.com/networks/polkadot/), [Kusama](https://validexis.com/networks/kusama/), [Starknet](https://validexis.com/networks/starknet/), [Cosmos Hub](https://validexis.com/networks/cosmos-hub/), [Lava](https://validexis.com/networks/lava/), [Agoric](https://validexis.com/networks/agoric/), [Nibiru](https://validexis.com/networks/nibiru/), [KYVE](https://validexis.com/networks/kyve/), [Juno](https://validexis.com/networks/juno/), [ZetaChain](https://validexis.com/networks/zetachain/), [Forta](https://validexis.com/networks/forta/), [NYM](https://validexis.com/networks/nym/) | [Osmosis](https://validexis.com/networks/osmosis/), [Paloma](https://validexis.com/networks/paloma/), [Uptick](https://validexis.com/networks/uptick/), [Xion](https://validexis.com/networks/xion/) |
 
-We operate validators across multiple ecosystems and build tooling based on real mainnet data, including:
-- validator operations and RPC infrastructure,
-- custom explorers and analytics platforms,
-- monitoring, automation, and AI-assisted operator tooling,
-- applied research driven by production environments.
+The [network portfolio](https://validexis.com/networks/) explains each role and links to public records where available. [GitBook documentation](https://services.validexis.com/) contains network-specific setup and operations guides.
 
+## Ecosystem track record
 
-Our team includes:
-- **DevOps engineers** — deploy and maintain nodes across multiple blockchain networks
-- **Infrastructure managers** — operate bare-metal servers and non-standard data centers
-- **Blockchain developers** — build automation, tooling, and network services
-- **Technical writers** — produce technical documentation and ecosystem tooling
+- **Celestia Foundation:** ecosystem delegation R&D track and later Cohort 6 foundation delegation history, associated with validator infrastructure, bridge observability and public tools.
+- **Web3 Foundation:** Decentralized Nodes Cohort 3 participation across Polkadot and Kusama.
+- **StarkWare:** team-documented delegation history for Starknet infrastructure.
+- **Monad:** independent validator participation and network explorer work.
 
-We are distributed across multiple regions, including:
-**Germany —  South Africa —  UAE —  Thailand —  Kazakhstan**
+See the [track record](https://validexis.com/track-record/) for context and links. Program history does not imply an ongoing partnership or current delegation.
 
-Our geographic diversity ensures high availability, resilience, and rapid incident response across time zones.
+## Products and engineering
 
----
+- [Celestia Explorer](https://celestia.validexis.com/new/) — network and validator data.
+- [CelestiaBridge](https://services.validexis.com/celestiabridge) — bridge and network observability resources.
+- [VALIDEXIS AI Terminal](https://services.validexis.com/validexis-ai-terminal) — operator-facing analytics documentation.
+- [Infrastructure documentation](https://services.validexis.com/) — network guides, validator security and monitoring.
 
-## Track Record & Recognition
+Our infrastructure approach emphasizes signing-key isolation, validator health monitoring, alerting, review and geographic decentralization. Read the [security](https://services.validexis.com/validator-security-our-approach-and-protection-measures) and [monitoring](https://services.validexis.com/monitoring) guides for operational detail.
 
-Validexis is recognized across multiple ecosystems for reliability, transparency, and open-source contribution.
+## Connect
 
-- **Celestia Foundation — Delegation Program**  
-  Awarded for AI-driven analytics and observability tooling
-
-- **StarkWare / Starknet — Delegation Program**  
-  Recognition for sustained uptime and secure validator operations
-
-- **Web3 Foundation (Polkadot & Kusama DN)**  
-  Delegation for validator reliability and ecosystem support
-
-We operate active validators across **10+ ecosystems**, including Celestia, Polkadot, Kusama, Starknet, Cosmos, Solana, and others.
-
----
-
-## Infrastructure & Operations
-
-Production-grade systems designed for stability, observability, and long-term network participation.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-Debian-1C3A5F?style=for-the-badge&logo=linux&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/Containers-Docker-1C3A5F?style=for-the-badge&logo=docker&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/Monitoring-Prometheus/Grafana-1C3A5F?style=for-the-badge&logo=prometheus&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/Alerts-Real_Time-1C3A5F?style=for-the-badge&logo=opsgenie&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/Security-Hardened-1C3A5F?style=for-the-badge&logo=letsencrypt&logoColor=E6B873"/>
-</p>
-
-### Bare-Metal Infrastructure
-
-VALIDEXIS operates a fully self-managed **bare-metal infrastructure** hosted in **Tier-3 carrier-neutral data centers** in **Dubai, United Arab Emirates**.
-
-This setup provides a strong balance of enterprise-grade reliability, physical security, and global connectivity — while contributing to geographic decentralization across the Middle East region.
-
-**Key characteristics:**
-- Enterprise-grade physical security and redundancy
-- Low-latency regional and intercontinental routing
-- Strategic validator decentralization in the Middle East
-
----
-
-## Security
-
-Security is our top priority — both on the infrastructure and access level. 
-
-Multi-layer architecture designed to protect validator integrity, prevent double-signing, and ensure operational safety across all systems.
-
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/validexisinfra/logo/main/security.png"
-    width="680"
-  />
-</p>
-
----
-
-## Tooling & Development
-
-We actively develop **production tooling** built on live network data and validator telemetry.
-
-This includes:
-- blockchain explorers and analytics dashboards,
-- validator monitoring & alerting systems,
-- AI assistants for operators and delegators,
-- automation pipelines for infrastructure reliability.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Explorers-Active-1C3A5F?style=for-the-badge&logo=graphql&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/AI_Tooling-Deployed-1C3A5F?style=for-the-badge&logo=openai&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/Automation-Operators-1C3A5F?style=for-the-badge&logo=robotframework&logoColor=E6B873"/>
-</p>
-
----
-
-## Skills & Tech Stack
-
-### Core Engineering
-
-<p align="left">
-  <a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/></a>
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/></a>
-  <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/></a>
-</p>
-
-### Frontend & Interfaces
-
-<p align="left">
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40"/></a>
-  <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40"/></a>
-  <a href="https://tailwindcss.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/></a>
-</p>
-
-### Infrastructure & DevOps
-
-<p align="left">
-  <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/></a>
-  <a href="https://grafana.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/></a>
-  <a href="https://prometheus.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40"/></a>
-</p>
-
----
-
-## Performance & Reliability
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Uptime-99.9%25-1C3A5F?style=for-the-badge&logo=verizon&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/Monitoring-24%2F7-1C3A5F?style=for-the-badge&logo=clockify&logoColor=E6B873"/>
-  <img src="https://img.shields.io/badge/Security-Hardened-1C3A5F?style=for-the-badge&logo=datadog&logoColor=E6B873"/>
-</p>
-
----
-
-## Philosophy
-
-We believe that:
-- decentralization requires **operational discipline**,
-- reliability comes from **engineering, not promises**,
-- validators should contribute more than just uptime.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/validexisinfra/logo/main/validexis-banner2.png" alt="Validexis banner" />
-</p>
+[Telegram channel](https://t.me/validexis) · [Contact the team](https://t.me/validexisinfra) · [GitHub repositories](https://github.com/validexisinfra?tab=repositories) · [Media kit](https://validexis.com/media-kit/)
