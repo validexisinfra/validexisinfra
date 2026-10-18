@@ -18,6 +18,18 @@ We are an independent validator and engineering team operating since 2021. We wo
 
 Our work includes validator operations, network guides and RPC resources, explorers, bridge observability and operator tooling. We document current roles separately from historical participation so that a network listing does not imply current active-set status.
 
+## Celestia — now
+
+Celestia Mainnet Beta and Mocha validator and Fibre operator. Cohort 6 delegate of the Celestia Foundation Delegation Program.
+
+- **[VALIDEXIS Celestia](https://celestia.validexis.com/)** — public platform: proposal slot ledger, validator directory, operator evidence reviews, Fibre network pulse, DA bridges, applications, endpoints.
+- **Infrastructure** — 6 dedicated servers in Cape Town, South Africa: validator, Fibre server and TMKMS signer for each network. [Overview](https://services.validexis.com/celestia-infrastructure) · [templates](https://github.com/validexisinfra/Celestia).
+- **Fibre** — dedicated Fibre hosts with mutual TLS to the validator. [Guide](https://services.validexis.com/celestia-infrastructure/fibre-server-setup-and-operations).
+- **Remote signing** — TMKMS v0.15.0 with `SignRawBytes`, softsign on LUKS, reviewed signer changes. [Guide](https://services.validexis.com/validator-security-our-approach-and-protection-measures/tmkms-for-remote-signing/tmkms-for-celestia-v10-and-fibre).
+- **Monitoring** — Prometheus, Grafana, OpenTelemetry, off-site watcher. [Alert rules](https://github.com/validexisinfra/Celestia/tree/main/monitoring).
+- **Methodology** — how our public numbers are produced. [Read](https://services.validexis.com/celestia-infrastructure/validexis-celestia-platform-and-methodology).
+- **All Celestia tools and resources** — [Tools.md](https://github.com/validexisinfra/Celestia/blob/main/Tools.md).
+
 ## Network portfolio
 
 | Validator operations and tools | Documented validator or node history | Guides and resource archives |
@@ -37,6 +49,7 @@ See the [track record](https://validexis.com/track-record/) for context and link
 
 ## Products and engineering
 
+- [VALIDEXIS Celestia](https://celestia.validexis.com/) — infrastructure evidence and operator resources for Celestia.
 - [Celestia Explorer](https://celestia.validexis.com/new/) — network and validator data.
 - [CelestiaBridge](https://services.validexis.com/celestiabridge) — bridge and network observability resources.
 - [VALIDEXIS AI Terminal](https://services.validexis.com/validexis-ai-terminal) — operator-facing analytics documentation.
